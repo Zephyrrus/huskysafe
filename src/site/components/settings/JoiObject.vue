@@ -50,7 +50,6 @@
 	</div>
 </template>
 
-
 <script>
 export default {
 	name: 'JoiObject',
@@ -117,6 +116,7 @@ export default {
 	}
 };
 </script>
+
 <style lang="scss" scoped>
 	@import '~/assets/styles/_colors.scss';
 
